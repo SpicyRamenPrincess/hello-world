@@ -1,2 +1,6 @@
 # hello-world
 learning github! felt smart, I'll probably delete later...
+
+Hey, I'm SpicyRP.
+Things you should know about me: I can't stand spicy food, I'm allergic to all domesticated ramen, and I am technically a duchess, not a princess. Also, I'm terrified of dragons...
+
